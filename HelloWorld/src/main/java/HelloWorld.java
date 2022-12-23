@@ -8,6 +8,6 @@ public class HelloWorld {
      * @return "Hello, world!"
      */
     public String sayHello(String string){
-        return string;
+        return "Hello, world!";
     }
 }
