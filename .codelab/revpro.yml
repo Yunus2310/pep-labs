@@ -72,6 +72,7 @@
     :tests:
       parrotTestHello: 0
       parrotTestPolly: 1
+      initializationError: 0
   Comparisons:
     :Week: 1
     :Order: 4
