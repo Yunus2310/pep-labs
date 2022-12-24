@@ -93,8 +93,8 @@
       lessThanOrEqualToTest1: 0
       lessThanOrEqualToTest2: 0
       lessThanOrEqualToTest3: 1
-      notEqualToTest1: 0
-      notEqualToTest2: 1
+      notEqualToTest1: 1
+      notEqualToTest2: 0
   CombineStrings:
     :Week: 1
     :Order: 5
