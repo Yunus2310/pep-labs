@@ -11,11 +11,13 @@ public class Parrot{
      * @param text is a parameter passed into this method by whatever called it.
      * @return text.
      */
-      public String copy(String text){
-        return  "polly";
+      static String copy(String text){
+        return  "polly!";
     } 
-  public static void main(String[] args){
-    System.out.println(("polly"));
-  }
+public static void main(String[] args) {
+	
+	String z = copy("polly");
+	  System.out.println(z);
+}
 }
     
