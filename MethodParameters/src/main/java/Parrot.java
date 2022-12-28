@@ -15,9 +15,8 @@ public class Parrot{
         return  "polly!";
     } 
 public static void main(String[] args) {
-	
-	String z = copy("polly");
-	  System.out.println(z);
+
+	  System.out.println("polly");
 }
 }
     
