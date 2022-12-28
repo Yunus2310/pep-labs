@@ -15,8 +15,8 @@ public class Parrot{
         return  "polly!";
     } 
 public static void main(String[] args) {
-
-	  System.out.println("polly");
+  String x = "polly!";
+	  System.out.println(x);
 }
 }
     
