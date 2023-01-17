@@ -1,26 +1,24 @@
 
-public class Parrot{
-    /**
-     * This method should return whatever String was passed into it by whatever invoked it (in this case, the test),
-     * instead of returning "return text please!"
-     *
-     * for example:
-     * String str = copy("hello");
-     * System.out.println(str); -> prints out "hello"
-     *
-     * @param text is a parameter passed into this method by whatever called it.
-     * @return text.
-     */
-     
-      static int myMethod(int x) {
-        return 5 + x;
-      }
-    
-      public static void main(String[] args) {
-        System.out.println(myMethod(3));
-      }
-    }
+public class Parrot {
+  /**
+   * This method should return whatever String was passed into it by whatever invoked it (in this case, the test),
+   * instead of returning "return text please!"
+   *
+   * for example:
+   * String str = copy("hello");
+   * System.out.println(str); -> prints out "hello"
+   *
+   * @param text is a parameter passed into this method by whatever called it.
+   * @return text.
+   */
+  public String copy(String text){
+      return "polly";
+  }
+   static void main (String args){
+    System.out.println("polly");
+  }
 
+}
 
 
     
