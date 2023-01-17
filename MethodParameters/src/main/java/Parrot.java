@@ -14,10 +14,6 @@ public class Parrot {
   public String copy(String text){
       return "polly";
   }
-   static void main (String args){
-    System.out.println("polly");
-  }
-
 }
 
 
